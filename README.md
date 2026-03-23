@@ -7,7 +7,7 @@ A fully responsive **Library Web App Clone** built with **HTML, CSS, and JavaScr
 ## 🚀 Live Demo
 
 👉 *Add your deployed link here*
-👉 *Add your GitHub Pages / Netlify / Vercel link*
+👉 https://github.com/blakeurena/Library-App-Clone)
 
 ---
 
