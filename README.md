@@ -4,13 +4,6 @@ A fully responsive **Library Web App Clone** built with **HTML, CSS, and JavaScr
 
 ---
 
-## 🚀 Live Demo
-
-👉 *Add your deployed link here*
-👉 https://github.com/blakeurena/Library-App-Clone)
-
----
-
 ## 🧠 Features
 
 * 📖 Dynamic book rendering using JavaScript
